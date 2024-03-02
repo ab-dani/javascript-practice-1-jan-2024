@@ -1,2 +1,6 @@
-console.log("Guessing Game!");
-console.log("it works!");
+findOut.onclick = function () {
+  
+  
+};
+
+Win.addEventListener("click", findOut);
