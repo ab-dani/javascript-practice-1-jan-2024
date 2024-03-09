@@ -31,3 +31,7 @@ Author:
 - https://javascript.info/variables
 - https://javascript.info/types
 - https://javascript.info/debugging-chrome
+
+## Replit Links
+
+- https://replit.com/@abrownjrdani/JavaScript-Practice-Week-1-Day-2#index.js
