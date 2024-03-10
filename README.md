@@ -35,3 +35,4 @@ Author:
 ## Replit Links
 
 - https://replit.com/@abrownjrdani/JavaScript-Practice-Week-1-Day-2#index.js
+- https://replit.com/@abrownjrdani/JavaScript-Practice-Week-1-Day-3-1#index.js
